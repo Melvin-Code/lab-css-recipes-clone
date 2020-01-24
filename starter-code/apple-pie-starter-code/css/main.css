@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 500px;
+}
+h1 {
+    background-image: url("/starter-code/apple-pie-starter-code/images/apple-pie.jpg");
+    width: 1000px;
+
+}
+
